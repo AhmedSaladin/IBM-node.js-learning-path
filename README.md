@@ -32,7 +32,7 @@ Some of the code is (and will always be) **purposely** bad (or poorly optimized)
 
 If you are a Node developer and see something that looks wrong, it just might be that way on purpose (to make a point), so no issues (or god forbid, PRs) please because something doesn't look perfect (or the way you would do it). That said... if something is just flat out wrong, please let me know (by opening an issue).
 
-# Info about instructor?
+# Info about instructor
 
 He is Steve Perry. And he **love** to write code, and write about writing code.
 
